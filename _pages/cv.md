@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Information Sience, Zhejiang University, 2017
+* M.S. in School of Cyber Science and Technology, Zhejiang University, 2020
+* Ph.D in School of Computer Science, Nanyang Technological University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Research Assistant
+  * Alibaba-Zhejiang University Joint Research Institute of Frontier Technologise
+  * Duties included: Side Channel Attacks and Defenses on Cyber Space
+  * Supervisor: Professor Ren Kui
   
 Skills
 ======
