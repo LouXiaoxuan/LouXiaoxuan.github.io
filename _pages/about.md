@@ -64,14 +64,14 @@ Publications
   ACM/IEEE Design Automation Conference (DAC), 2020
   
  
- * [Understanding Rowhammer attacks through the lens of a unified reference framework]([https://arxiv.org/pdf/2103.14244.pdf](https://arxiv.org/pdf/1901.03538.pdf))
+* [Understanding Rowhammer attacks through the lens of a unified reference framework]([https://arxiv.org/pdf/2103.14244.pdf](https://arxiv.org/pdf/1901.03538.pdf))
 
   **Xiaoxuan Lou**, Fan Zhang, Zheng Leong Chua, Zhenkai Liang, Yueqiang Cheng, Yajin Zhou
   
   arXiv, 2019
   
  
- * [Persistent fault analysis on block ciphers](https://tches.iacr.org/index.php/TCHES/article/download/7272/6450)
+* [Persistent fault analysis on block ciphers](https://tches.iacr.org/index.php/TCHES/article/download/7272/6450)
 
   Fan Zhang, **Xiaoxuan Lou**, Xinjie Zhao, Shivam Bhasin, Wei He, Ruyi Ding, Samiya Qureshi, Kui Ren
   
