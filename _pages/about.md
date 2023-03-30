@@ -23,7 +23,7 @@ Publications
 
 * [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)
 
-  Kangjie Chen, **Xiaoxuan Lou (Corresponding Author)**, Guowen Xu, Jiwei Li, Tianwei Zhang
+  Kangjie Chen, **Xiaoxuan Lou\***, Guowen Xu, Jiwei Li, Tianwei Zhang
   
   Proceedings of the International Conference on Learning Representations (ICLR), 2023 <font color="red">(Oral, Notable-top-5%)</font>
 
