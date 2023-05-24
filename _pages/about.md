@@ -23,8 +23,6 @@ Honors and Awards
 * 2018 Samsung Scholarship
 * 2016 The Second Prize for National College Student Information Security Contest
 
-<a href='https://scholar.google.com/citations?user=9PXzfE0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Total google scholar citations"></a>
-
 Publications
 ======
 
