@@ -27,38 +27,38 @@ Honors and Awards
 Publications
 ======
 
-* [Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts](https://openreview.net/forum?id=S3wt5tj0TN)
-  Shuo Sun, Xinrun Wang, Wanqi Xue, **Xiaoxuan Lou**, Bo An
+* [Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts](https://openreview.net/forum?id=S3wt5tj0TN)<br>
+  Shuo Sun, Xinrun Wang, Wanqi Xue, **Xiaoxuan Lou**, Bo An<br>
   ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD), 2023
 
-* [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)
-  Kangjie Chen, **Xiaoxuan Lou\***, Guowen Xu, Jiwei Li, Tianwei Zhang
+* [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)<br>
+  Kangjie Chen, **Xiaoxuan Lou\***, Guowen Xu, Jiwei Li, Tianwei Zhang<br>
   Proceedings of the International Conference on Learning Representations (ICLR), 2023 <font color="red">(Oral, Notable-top-5%)</font>
 
-* [Ownership Verification of DNN Architectures via Hardware Cache Side Channels](https://ieeexplore.ieee.org/document/9801864)
-  **Xiaoxuan Lou**, Shangwei Guo, Jiwei Li, Tianwei Zhang
+* [Ownership Verification of DNN Architectures via Hardware Cache Side Channels](https://ieeexplore.ieee.org/document/9801864)<br>
+  **Xiaoxuan Lou**, Shangwei Guo, Jiwei Li, Tianwei Zhang<br>
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023
 
-* [NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/pdf?id=KhLK0sHMgXK)
-  **Xiaoxuan Lou**, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang
+* [NASPY: Automated Extraction of Automated Machine Learning Models](https://openreview.net/pdf?id=KhLK0sHMgXK)<br>
+  **Xiaoxuan Lou**, Shangwei Guo, Jiwei Li, Yaoxin Wu, Tianwei Zhang<br>
   Proceedings of the International Conference on Learning Representations (ICLR), 2022 <font color="red">(Spotlight)</font>
 
-* [A survey of microarchitectural side-channel vulnerabilities, attacks, and defenses in cryptography](https://arxiv.org/pdf/2103.14244.pdf)
-  **Xiaoxuan Lou**, Tianwei Zhang, Jun Jiang, Yinqian Zhang
+* [A survey of microarchitectural side-channel vulnerabilities, attacks, and defenses in cryptography](https://arxiv.org/pdf/2103.14244.pdf)<br>
+  **Xiaoxuan Lou**, Tianwei Zhang, Jun Jiang, Yinqian Zhang<br>
   ACM Computing Surveys (CSUR), 2022
 
 
-* [Imperceptible misclassification attack on deep learning accelerator by glitch injection](https://dr.ntu.edu.sg/bitstream/10356/145856/2/21_2_Liu_finalpaper_05_22_2020_09_48.pdf)
-  Wenye Liu, Chip-Hong Chang, Fan Zhang, **Xiaoxuan Lou**
+* [Imperceptible misclassification attack on deep learning accelerator by glitch injection](https://dr.ntu.edu.sg/bitstream/10356/145856/2/21_2_Liu_finalpaper_05_22_2020_09_48.pdf)<br>
+  Wenye Liu, Chip-Hong Chang, Fan Zhang, **Xiaoxuan Lou**<br>
   ACM/IEEE Design Automation Conference (DAC), 2020
   
  
-* [Understanding Rowhammer attacks through the lens of a unified reference framework]([https://arxiv.org/pdf/2103.14244.pdf](https://arxiv.org/pdf/1901.03538.pdf))
-  **Xiaoxuan Lou**, Fan Zhang, Zheng Leong Chua, Zhenkai Liang, Yueqiang Cheng, Yajin Zhou
+* [Understanding Rowhammer attacks through the lens of a unified reference framework]([https://arxiv.org/pdf/2103.14244.pdf](https://arxiv.org/pdf/1901.03538.pdf))<br>
+  **Xiaoxuan Lou**, Fan Zhang, Zheng Leong Chua, Zhenkai Liang, Yueqiang Cheng, Yajin Zhou<br>
   arXiv, 2019
   
  
-* [Persistent fault analysis on block ciphers](https://tches.iacr.org/index.php/TCHES/article/download/7272/6450)
-  Fan Zhang, **Xiaoxuan Lou**, Xinjie Zhao, Shivam Bhasin, Wei He, Ruyi Ding, Samiya Qureshi, Kui Ren
+* [Persistent fault analysis on block ciphers](https://tches.iacr.org/index.php/TCHES/article/download/7272/6450)<br>
+  Fan Zhang, **Xiaoxuan Lou**, Xinjie Zhao, Shivam Bhasin, Wei He, Ruyi Ding, Samiya Qureshi, Kui Ren<br>
   IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018
 
