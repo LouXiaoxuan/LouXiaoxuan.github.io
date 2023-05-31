@@ -13,9 +13,10 @@ I am currently a third-year Ph.D. student at School of Computer Science and Engi
 Research Interests
 ======
 
-* Security on Operating System, AI System and Cloud
-* Truested Execution Environment
+* System Security and AI Privacy
+* Trusted Execution Environment
 * Side-channel Attacks and Defenses
+* Cloud-native Confidential Container Design
 
 Honors and Awards
 ======
