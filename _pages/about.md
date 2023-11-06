@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University. My supervisor is Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my B.Eng. degree and M.Sci. degree from [Zhejiang University](https://www.zju.edu.cn/english/), China.
+I am final-year Ph.D. student at School of Computer Science and Engineering, Nanyang Technological University. My supervisor is Prof. [Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/index.html). Before that, I received my B.Eng. degree and M.Sci. degree from [Zhejiang University](https://www.zju.edu.cn/english/), China.
 
 Research Interests
 ======
