@@ -18,18 +18,20 @@ Research Interests
 * Side-channel Attacks and Defenses
 * Cloud-native Confidential Container Design
 
-Honors and Awards
-======
-
-* 2018 Samsung Scholarship
-* 2016 The Second Prize for National College Student Information Security Contest
-
 Publications
 ======
 
+* [Protecting Confidential Virtual Machines from Hardware Performance Counter Side Channels](https://tianweiz07.github.io/Papers/24-dsn.pdf)<br>
+  **Xiaoxuan Lou**, Kangjie Chen, Guowen Xu, Han Qiu, Shangwei Guo, Tianwei Zhang<br>
+  IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024
+
+* [MERCURY: An Automated Remote Side-channel Attack to Nvidia Deep Learning Accelerator](https://dr.ntu.edu.sg/bitstream/10356/171839/2/_DR_NTU_An_Automated_Remote_Side_channel_Attack_to_FPGA_based_DNN_Accelerators.pdf)<br>
+  Xiaobei Yan, **Xiaoxuan Lou**, Guowen Xu, Han Qiu, Shangwei Guo, Chip Hong Chang, Tianwei Zhang<br>
+  IEEE International Conference on Field-Programmable Technology (FPT), 2023
+
 * [Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts](https://openreview.net/forum?id=S3wt5tj0TN)<br>
   Shuo Sun, Xinrun Wang, Wanqi Xue, **Xiaoxuan Lou**, Bo An<br>
-  ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING (KDD), 2023
+  ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2023
 
 * [Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only](https://openreview.net/forum?id=rFQfjDC9Mt)<br>
   Kangjie Chen, **Xiaoxuan Lou\***, Guowen Xu, Jiwei Li, Tianwei Zhang<br>
@@ -62,3 +64,15 @@ Publications
   Fan Zhang, **Xiaoxuan Lou**, Xinjie Zhao, Shivam Bhasin, Wei He, Ruyi Ding, Samiya Qureshi, Kui Ren<br>
   IACR Transactions on Cryptographic Hardware and Embedded Systems, 2018
 
+Honors and Awards
+======
+
+* 2018 Samsung Scholarship
+* 2016 The Second Prize for National College Student Information Security Contest
+
+Service
+======
+
+* ICLR, ICML, AAAI Reviewer
+* HPCA Artifact Reviewer
+* TIFS Reviewer
